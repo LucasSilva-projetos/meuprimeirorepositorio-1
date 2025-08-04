@@ -1,2 +1,53 @@
-Lucas - Um aluno da Etec do 1 ano, cursando atualmente o curso de Inform�tica para Internet, tenho 15 anos
-Yuri - Um aluno da Etec do primeiro min, tenho 16 anos e jogo LOL, a propia reencarna��o de faker. 
+Lucas - Um aluno da Etec do 1 ano, cursando atualmente o curso de Informática para Internet, tenho 15 anos
+
+Yuri - Um aluno da Etec do primeiro min, tenho 16 anos e jogo LOL, a propia reencarnação de faker. 
+
+3
+ Utilize o comando 'git clone [URL que você copiou]' para clonar o repositório localmente.
+ Acesse a pasta clonada usando o comando 'cd meuprimeirorepositorio'.
+ Abra o arquivo README.md com o seu editor de texto e adicione uma breve descrição sobre você.
+ Salve as alterações e volte ao terminal. Use o comando 'git add README.md' para adicionar as alterações.
+ Faça um commit das suas alterações com o comando 'git commitm 'Adicionado descrição pessoal ao 
+README''.
+ Crie uma nova branch com o comando 'git checkoutb minhadescricao'.
+ Crie um novo arquivo com o seu editor de texto, adicione uma descrição mais detalhada sobre você e salve 
+como 'sobremim.txt'.
+ Adicione esse novo arquivo ao seu repositório com 'git add sobremim.txt'.
+ Faça um commit novamente com 'git commitm 'Adicionada descrição pessoal no arquivo sobremim.txt'.
+ Volte para a branch principal com 'git checkout main'.
+ Una as alterações da sua branch com o comando 'git merge minhadescricao'.
+ Envie suas alterações para o GitHub com 'git push origin main'.
+ No GitHub, vá até seu repositório e clique em 'Pull Requests'. Clique em 'New Pull Request'.
+ Selecione a sua branch e clique em 'Create Pull Request'. Adicione um comentário se quiser, e clique em 
+'Create Pull Request'.
+O Que Você Deve Entregar
+Seu desafio final é criar um repositório no GitHub que contenha um arquivo README.md e um novo arquivo 
+'sobremim.txt'. O README.md deve conter uma breve descrição de quem você é e o arquivo sobremim.txt 
+deve trazer uma descrição mais aprofundada sobre você. Você deve enviar um link do seu repositório para o 
+professor, e, se possível, compartilhe com um amigo para que ele também veja e dê sugestões. Lembre-se, o 
+mais importante é que seu repositório reflita quem você é e seja fácil de entender!
+ATIVIDADE
+Questão 1. Qual das seguintes opções explica por que o Git é uma ferramenta útil para projetos de programação?
+(A) Ele ajuda a salvar diferentes versões do seu projeto e permite voltar atrás se você cometer erros.
+(B) Ele corrige automaticamente todos os erros de digitação no seu código.
+(C) Ele permite que você compartilhe fotos com seus amigos.
+(D) Ele automaticamente escreve o código do seu projeto para você.
+Questão 2. Você está começando um novo projeto de programação e quer usar o Git para controlar as versões do 
+seu código. Qual é o primeiro passo que você deve seguir para criar um novo repositório Git no seu computador?
+(A) Usar o comando `git init` na pasta do projeto.
+(B) Criar uma conta no GitHub e criar um repositório online.
+(C) Adicionar todos os arquivos do projeto com o comando `git add .`.
+(D) Fazer um commit inicial com o comando `git commit -m "Primeiro commit"
+
+Questão 3. Se você estivesse começando um projeto novo de história em grupo com seus colegas, como você 
+usaria o Git e o GitHub para criar um repositório para organizar e compartilhar o trabalho de vocês?
+Questão 4. Depois de adicionar seus arquivos ao Git usando `git add`, qual comando você usa para salvar suas 
+mudanças com uma mensagem descritiva antes de enviá-las para o GitHub?
+(A) git commit -m "mensagem"
+(B) git init
+(C) git status
+(D) git push
+Questão 5. Imagine que você e seus amigos estão criando um jogo juntos. Cada um faz mudanças no código, e 
+vocês precisam garantir que todas as alterações se juntem corretamente sem bagunçar o projeto. Explique como o 
+Git pode ajudar vocês a resolver esse problema e por que ele é uma ferramenta útil para esse tipo de trabalho em 
+equipe.
